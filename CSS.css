@@ -1,0 +1,56 @@
+html.SHINE.shine-grid.res-nightmode body.listing-page > .content #siteTable .thing ul.flat-list .hide-button a {
+    background-size: 9px !important;
+}
+
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing .arrow.up, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing .arrow.down, html.SHINE.shine-grid.res-nightmode body.listing-page > .content #siteTable .thing ul.flat-list li a.comments {
+
+    background-size: 12px !important;
+}
+
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing .score, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing ul.flat-list li a {
+font-size: 9px;
+}
+
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing ul.flat-list li.give-gold-button, p.title, time {
+    display: none !important;
+}
+
+.side-comments p.title {
+    display: inline-block !important;
+}
+
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[data-href-url*="gallery"].thumbnail {
+    display: inline-block !important;
+}
+
+html.SHINE.shine-grid .shine-expand {
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="redgif"].thumbnail, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="pornhub"].thumbnail, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="erome"].thumbnail, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[data-href-url*="gallery"].thumbnail, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="video"].thumbnail  {
+    display: block !important; width: 100%;
+    height: auto;
+}
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="redgif"].thumbnail img, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="pornhub"].thumbnail img, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="erome"].thumbnail img, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[data-href-url*="gallery"].thumbnail img, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing a[href*="video"].thumbnail img, html.SHINE.shine-grid body.listing-page > .content #siteTable .thing  a[href*="video"].thumbnail img {
+    width: 100% !important; height: auto;
+}
+
+.redgifAlert {
+    font-size: 12px; color: #d0203e; text-shadow: 0 2px 5px #333; font-weight: 900; padding: 5px 10px; border: 2px solid red; background: #131313; max-width: 40%; border-radius: 20px; text-align: center; margin-top:8px;
+}
+
+.phAlert {
+    font-size: 12px; color: #f0b900; text-shadow: 0 2px 5px #333; font-weight: 900; padding: 5px 10px; border: 2px solid #f0b900; background: #4f4f4f; max-width: 40%; border-radius: 20px; text-align: center; margin-top:8px;
+}
+
+.emAlert {
+    font-size: 12px; color: #ffaebc; text-shadow: 0 2px 5px #333; font-weight: 900; padding: 5px 10px; border: 2px solid #ff9191; background: #333; max-width: 40%; border-radius: 20px; text-align: center;margin-top:8px;
+}
+
+.riAlert {
+    font-size: 12px; color: #00d0ff; text-shadow: 0 2px 5px #333; font-weight: 900; padding: 5px 10px; border: 2px solid #ff8e00; background: #333; max-width: 40%; border-radius: 20px; text-align: center;margin-top:8px;
+}
+
+html.SHINE.shine-grid body.listing-page > .content #siteTable .thing{
+    max-width: calc(100% / 7) !important;
+}
